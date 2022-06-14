@@ -34,7 +34,7 @@ wget https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/tags/2022-02
 unzip 2022-02-21.zip
 ./WhiteSur-gtk-theme-2022-02-21/install.sh
 
-echo 'install discord, vscode'
+echo 'install discord'
 snap install discord
 echo 'install vscode'
 snap install --classic code
