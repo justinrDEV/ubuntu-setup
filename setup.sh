@@ -1,7 +1,7 @@
 echo 'update & upgrade'
 apt update && apt upgrade -y
 echo 'install unzip'
-apt install unzip
+apt install unzip -y
 
 echo 'set new wallpaper'
 wget -O /tmp/wallpaper.jpg 'https://wallpapercave.com/wp/wp8149239.jpg'
