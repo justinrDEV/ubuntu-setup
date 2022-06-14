@@ -19,7 +19,7 @@ apt remove firefox -y
 
 echo 'open gnome extentions website'
 google-chrome 'https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep'
-sleep 4
+sleep 4 
 google-chrome 'https://extensions.gnome.org/extension/19/user-themes/'
 
 sleep 5
