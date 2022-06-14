@@ -36,6 +36,7 @@ unzip 2022-02-21.zip
 
 echo 'install discord, vscode'
 snap install discord
+echo 'install vscode'
 snap install --classic code
 
 echo 'install gitkraken'
