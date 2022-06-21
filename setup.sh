@@ -1,3 +1,7 @@
+# https://www.pling.com/p/1279924/
+# https://www.gnome-look.org/p/1309214/
+
+
 echo 'update & upgrade'
 apt update && apt upgrade -y
 echo 'install unzip'
